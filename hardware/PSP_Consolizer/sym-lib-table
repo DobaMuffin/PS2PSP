@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "PSP_Consolizer")(type "KiCad")(uri "${KIPRJMOD}/PSP_Consolizer.kicad_sym")(options "")(descr ""))
+  (lib (name PSP_Consolizer)(type Legacy)(uri ${KIPRJMOD}/PSP_Consolizer.kicad_sym)(options "")(descr ""))
+  (lib (name consolizer-rescue)(type Legacy)(uri ${KIPRJMOD}/consolizer-rescue.lib)(options "")(descr ""))
 )
